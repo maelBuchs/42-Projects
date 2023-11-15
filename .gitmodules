@@ -5,11 +5,11 @@
 	path = 02_ft_printf/ft_printf
 	url = https://github.com/maelBuchs/ft_printf.git
 [submodule "born2beroot"]
-	path = 03_born2beroot/born2beroot
+	path = born2beroot
 	url = https://github.com/maelBuchs/born2beroot.git
 [submodule "get_next_line"]
-	path = 04_get_next_line/get_next_line
+	path = get_next_line
 	url = https://github.com/maelBuchs/get_next_line.git
 [submodule "so_long"]
-	path = 05_so_long/so_long
+	path = so_long
 	url = https://github.com/maelBuchs/so_long.git
