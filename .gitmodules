@@ -10,3 +10,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/maelBuchs/get_next_line.git
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/maelBuchs/so_long.git
